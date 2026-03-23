@@ -2,15 +2,6 @@
 Email validation in Python using two approaches: manual validation and regular expressions.
 This project demonstrates how to check whether an email address is valid using two different techniques in Python. It is designed for beginners who want to understand string validation logic and pattern matching.
 
-# Project Structure
-Python-Email-Validation
-│
-├── README.md
-│
-└── src
-    ├── EmailValidation.py
-    └── using_regex.py
-
 # EmailValidation.py
 
 Validates email using manual conditions
